@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500;700&display=swap');
+
+
+* {
+    margin: 0;
+}
+
+#titulo {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    color: #0a2ff1;
+    font-size: 78px;
+    width: 750px;
+    padding-top: 5%;
+}
+
+#titulo strong {
+    background-color: #3ffff3;
+}
+
+#parrafo {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    color: #0a2ff1;
+    font-size: 30px;
+    width: 750px;
+    padding-top: 5%;
+    padding-bottom: 2%;
+}
+#imagen {
+    width: 400px;
+    height: auto;
+}
+
+div {
+    background-image: url(Recursos/Ejercicio_1/fondo.JPG);
+    background-repeat: repeat-x;
+    width: 400px;
+}

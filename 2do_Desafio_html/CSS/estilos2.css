@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600;900&display=swap');
+
+
+* {
+    text-align: center;
+    margin: 0;
+}
+
+#noviembre {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 900;
+    color: white;
+    background-color: black;
+    font-size: 66px;
+    padding: 5%;
+}
+
+#black {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 900;
+    font-size: 197px;
+}
+
+#friday {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 900;
+    color: white;
+    background-color: black;
+    font-size: 217px;
+    padding: 10%;
+}
+
+#descuentos {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    font-size: 60px;
+}
+
+#descuentos p strong {
+    font-weight: 900;
+}
+
+#notelopierdas{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    color: white;
+    background-color: black;
+    font-size: 48px;
+    padding: 5%;
+}
