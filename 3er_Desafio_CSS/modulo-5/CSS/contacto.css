@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+
+
+#formulario {
+    border: solid 1px;
+    border-color: #2c00cc;
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    box-sizing: border-box;
+    padding: 3%;
+}
+
+#titulo {
+    font-family: 'Roboto Slab', serif;
+    font-weight: 700;
+    font-size: 24px;
+    color: #04146c;
+    margin-top: 0;
+}
+
+#textinput {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    color: #04146c;
+}
+
+#input {
+    width: 500px;
+    height: 50px;
+    border: solid 1px;
+    border-color: #2c00cc;
+    font-size: 28px;
+}
+
+#textarea {
+    width: 500px;
+    border-color: #2c00cc;
+    font-size: 20px;
+}
+
+#btn {
+    margin-top: 25px;
+}
+
+#btnReset {
+    font-family: 'Roboto Slab', serif;
+    font-weight: 700;
+    font-size: 18px;
+    width: 120px;
+    height: 35px;
+    border-radius: 8px;
+    background-color: #f98500;
+    color: white;
+    border: none;
+    margin-right: 40px;
+}
+
+#btnEnviar {
+    font-family: 'Roboto Slab', serif;
+    font-weight: 700;
+    font-size: 18px;
+    width: 120px;
+    height: 35px;
+    border-radius: 8px;
+    background-color: #2c00cc;
+    color: white;
+    border: none;
+}
