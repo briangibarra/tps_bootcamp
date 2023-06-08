@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish:wght@400;700&display=swap');
+
+.titulo {
+    font-family: 'Mulish', sans-serif;
+    font-weight: 700;
+    font-size: 3rem;
+    color: #3957f1;
+    padding: 4%;
+}
+
+.tarjeta {
+    margin: 10px;
+    margin-bottom: 20px;
+    text-align: center;
+    font-family: 'Mulish', sans-serif;
+    font-weight: 400;
+    font-size: 1.2rem;
+    color: #15163d;
+    padding: 0;
+    border: 0;
+}
+
